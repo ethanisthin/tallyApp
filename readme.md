@@ -1,0 +1,1 @@
+This app will allow users to track purchases during trips.
